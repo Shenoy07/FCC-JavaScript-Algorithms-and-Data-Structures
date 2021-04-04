@@ -1,0 +1,5 @@
+function timesFive(no)
+{
+  return no * 5;
+
+}
